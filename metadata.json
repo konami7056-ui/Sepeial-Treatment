@@ -1,0 +1,6 @@
+{
+  "name": "專業股票技術分析與海龜回測平台",
+  "description": "全方位台股與美股技術分析、Market Data Router、海龜交易策略回測、參數最佳化、Walk-Forward、Monte Carlo 與 AI 量化研究助手",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
